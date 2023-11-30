@@ -1,3 +1,9 @@
+# Yolo model weights
+yolov*.pt
+
+# temp videos
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
