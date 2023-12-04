@@ -2,6 +2,8 @@
 yolov*.pt
 
 # temp videos
+videos
+output-videos
 *.mp4
 
 # Byte-compiled / optimized / DLL files
